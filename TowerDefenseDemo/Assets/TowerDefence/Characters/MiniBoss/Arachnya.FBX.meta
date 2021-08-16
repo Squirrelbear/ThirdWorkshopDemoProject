@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: dae54c54f77480940af15e1f257ea1cb
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: ArachnyaRIGChest
+  - first:
+      1: 100004
+    second: ArachnyaRIGHead
+  - first:
+      1: 100006
+    second: ArachnyaRIGLArm1
+  - first:
+      1: 100008
+    second: ArachnyaRIGLArm2
+  - first:
+      1: 100010
+    second: ArachnyaRIGLArmCollarbone
+  - first:
+      1: 100012
+    second: ArachnyaRIGLArmPalm
+  - first:
+      1: 100014
+    second: ArachnyaRIGLClaw1
+  - first:
+      1: 100016
+    second: ArachnyaRIGLClaw2
+  - first:
+      1: 100018
+    second: ArachnyaRIGLClawCollarbone
+  - first:
+      1: 100020
+    second: ArachnyaRIGLClawPalm
+  - first:
+      1: 100022
+    second: ArachnyaRIGLIndex
+  - first:
+      1: 100024
+    second: ArachnyaRIGLLeg1
+  - first:
+      1: 100026
+    second: ArachnyaRIGLLeg2
+  - first:
+      1: 100028
+    second: ArachnyaRIGLLegAnkle
+  - first:
+      1: 100030
+    second: ArachnyaRIGLLegBack1
+  - first:
+      1: 100032
+    second: ArachnyaRIGLLegBack2
+  - first:
+      1: 100034
+    second: ArachnyaRIGLLegBackAnkle
+  - first:
+      1: 100036
+    second: ArachnyaRIGLLegBackCollarbone
+  - first:
+      1: 100038
+    second: ArachnyaRIGLLegFront1
+  - first:
+      1: 100040
+    second: ArachnyaRIGLLegFront2
+  - first:
+      1: 100042
+    second: ArachnyaRIGLLegFrontAnkle
+  - first:
+      1: 100044
+    second: ArachnyaRIGLLegFrontCollarbone
+  - first:
+      1: 100046
+    second: ArachnyaRIGLMiddlefinger
+  - first:
+      1: 100048
+    second: ArachnyaRIGLPinky
+  - first:
+      1: 100050
+    second: ArachnyaRIGLRingFinger
+  - first:
+      1: 100052
+    second: ArachnyaRIGLSpike1
+  - first:
+      1: 100054
+    second: ArachnyaRIGLSpike2
+  - first:
+      1: 100056
+    second: ArachnyaRIGLSpikeCollarbone
+  - first:
+      1: 100058
+    second: ArachnyaRIGLSpikePalm
+  - first:
+      1: 100060
+    second: ArachnyaRIGLThumb
+  - first:
+      1: 100062
+    second: ArachnyaRIGNeck
+  - first:
+      1: 100064
+    second: ArachnyaRIGPalmBone001Bone001
+  - first:
+      1: 100066
+    second: ArachnyaRIGPalmBone001Bone001 1
+  - first:
+      1: 100068
+    second: ArachnyaRIGPalmBone001Bone002
+  - first:
+      1: 100070
+    second: ArachnyaRIGPalmBone001Bone002 1
+  - first:
+      1: 100072
+    second: ArachnyaRIGPalmBone001Bone003
+  - first:
+      1: 100074
+    second: ArachnyaRIGPalmBone001Bone003 1
+  - first:
+      1: 100076
+    second: ArachnyaRIGPalmBone001Bone004
+  - first:
+      1: 100078
+    second: ArachnyaRIGPalmBone001Bone004 1
+  - first:
+      1: 100080
+    second: ArachnyaRIGPalmBone005Bone001
+  - first:
+      1: 100082
+    second: ArachnyaRIGPalmBone005Bone001 1
+  - first:
+      1: 100084
+    second: ArachnyaRIGPelvis
+  - first:
+      1: 100086
+    second: ArachnyaRIGRArm1
+  - first:
+      1: 100088
+    second: ArachnyaRIGRArm2
+  - first:
+      1: 100090
+    second: ArachnyaRIGRArmCollarbone
+  - first:
+      1: 100092
+    second: ArachnyaRIGRArmPalm
+  - first:
+      1: 100094
+    second: ArachnyaRIGRClaw1
+  - first:
+      1: 100096
+    second: ArachnyaRIGRClaw2
+  - first:
+      1: 100098
+    second: ArachnyaRIGRClawCollarbone
+  - first:
+      1: 100100
+    second: ArachnyaRIGRClawPalm
+  - first:
+      1: 100102
+    second: ArachnyaRIGRIndex
+  - first:
+      1: 100104
+    second: ArachnyaRIGRLeg1
+  - first:
+      1: 100106
+    second: ArachnyaRIGRLeg2
+  - first:
+      1: 100108
+    second: ArachnyaRIGRLegAnkle
+  - first:
+      1: 100110
+    second: ArachnyaRIGRLegBack1
+  - first:
+      1: 100112
+    second: ArachnyaRIGRLegBack2
+  - first:
+      1: 100114
+    second: ArachnyaRIGRLegBackAnkle
+  - first:
+      1: 100116
+    second: ArachnyaRIGRLegBackCollarbone
+  - first:
+      1: 100118
+    second: ArachnyaRIGRLegCollarbone
+  - first:
+      1: 100120
+    second: ArachnyaRIGRLegFront1
+  - first:
+      1: 100122
+    second: ArachnyaRIGRLegFront2
+  - first:
+      1: 100124
+    second: ArachnyaRIGRLegFrontAnkle
+  - first:
+      1: 100126
+    second: ArachnyaRIGRLegFrontCollarbone
+  - first:
+      1: 100128
+    second: ArachnyaRIGRMiddlefinger
+  - first:
+      1: 100130
+    second: ArachnyaRIGRPinky
+  - first:
+      1: 100132
+    second: ArachnyaRIGRRingFinger
+  - first:
+      1: 100134
+    second: ArachnyaRIGRSpike1
+  - first:
+      1: 100136
+    second: ArachnyaRIGRSpike2
+  - first:
+      1: 100138
+    second: ArachnyaRIGRSpikeCollarbone
+  - first:
+      1: 100140
+    second: ArachnyaRIGRSpikePalm
+  - first:
+      1: 100142
+    second: ArachnyaRIGRThumb
+  - first:
+      1: 100144
+    second: ArachnyaRIGSpiderBag0
+  - first:
+      1: 100146
+    second: ArachnyaRIGSpiderBag1
+  - first:
+      1: 100148
+    second: ArachnyaRIGSpine1
+  - first:
+      1: 100150
+    second: ArachnyaRIGSpine2
+  - first:
+      1: 100152
+    second: ArachnyaRIGSpine3
+  - first:
+      1: 100154
+    second: MESH_Arachnya
+  - first:
+      1: 100156
+    second: MESH_ArachnyaScythe
+  - first:
+      1: 100158
+    second: Object003
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: ArachnyaRIGChest
+  - first:
+      4: 400004
+    second: ArachnyaRIGHead
+  - first:
+      4: 400006
+    second: ArachnyaRIGLArm1
+  - first:
+      4: 400008
+    second: ArachnyaRIGLArm2
+  - first:
+      4: 400010
+    second: ArachnyaRIGLArmCollarbone
+  - first:
+      4: 400012
+    second: ArachnyaRIGLArmPalm
+  - first:
+      4: 400014
+    second: ArachnyaRIGLClaw1
+  - first:
+      4: 400016
+    second: ArachnyaRIGLClaw2
+  - first:
+      4: 400018
+    second: ArachnyaRIGLClawCollarbone
+  - first:
+      4: 400020
+    second: ArachnyaRIGLClawPalm
+  - first:
+      4: 400022
+    second: ArachnyaRIGLIndex
+  - first:
+      4: 400024
+    second: ArachnyaRIGLLeg1
+  - first:
+      4: 400026
+    second: ArachnyaRIGLLeg2
+  - first:
+      4: 400028
+    second: ArachnyaRIGLLegAnkle
+  - first:
+      4: 400030
+    second: ArachnyaRIGLLegBack1
+  - first:
+      4: 400032
+    second: ArachnyaRIGLLegBack2
+  - first:
+      4: 400034
+    second: ArachnyaRIGLLegBackAnkle
+  - first:
+      4: 400036
+    second: ArachnyaRIGLLegBackCollarbone
+  - first:
+      4: 400038
+    second: ArachnyaRIGLLegFront1
+  - first:
+      4: 400040
+    second: ArachnyaRIGLLegFront2
+  - first:
+      4: 400042
+    second: ArachnyaRIGLLegFrontAnkle
+  - first:
+      4: 400044
+    second: ArachnyaRIGLLegFrontCollarbone
+  - first:
+      4: 400046
+    second: ArachnyaRIGLMiddlefinger
+  - first:
+      4: 400048
+    second: ArachnyaRIGLPinky
+  - first:
+      4: 400050
+    second: ArachnyaRIGLRingFinger
+  - first:
+      4: 400052
+    second: ArachnyaRIGLSpike1
+  - first:
+      4: 400054
+    second: ArachnyaRIGLSpike2
+  - first:
+      4: 400056
+    second: ArachnyaRIGLSpikeCollarbone
+  - first:
+      4: 400058
+    second: ArachnyaRIGLSpikePalm
+  - first:
+      4: 400060
+    second: ArachnyaRIGLThumb
+  - first:
+      4: 400062
+    second: ArachnyaRIGNeck
+  - first:
+      4: 400064
+    second: ArachnyaRIGPalmBone001Bone001
+  - first:
+      4: 400066
+    second: ArachnyaRIGPalmBone001Bone001 1
+  - first:
+      4: 400068
+    second: ArachnyaRIGPalmBone001Bone002
+  - first:
+      4: 400070
+    second: ArachnyaRIGPalmBone001Bone002 1
+  - first:
+      4: 400072
+    second: ArachnyaRIGPalmBone001Bone003
+  - first:
+      4: 400074
+    second: ArachnyaRIGPalmBone001Bone003 1
+  - first:
+      4: 400076
+    second: ArachnyaRIGPalmBone001Bone004
+  - first:
+      4: 400078
+    second: ArachnyaRIGPalmBone001Bone004 1
+  - first:
+      4: 400080
+    second: ArachnyaRIGPalmBone005Bone001
+  - first:
+      4: 400082
+    second: ArachnyaRIGPalmBone005Bone001 1
+  - first:
+      4: 400084
+    second: ArachnyaRIGPelvis
+  - first:
+      4: 400086
+    second: ArachnyaRIGRArm1
+  - first:
+      4: 400088
+    second: ArachnyaRIGRArm2
+  - first:
+      4: 400090
+    second: ArachnyaRIGRArmCollarbone
+  - first:
+      4: 400092
+    second: ArachnyaRIGRArmPalm
+  - first:
+      4: 400094
+    second: ArachnyaRIGRClaw1
+  - first:
+      4: 400096
+    second: ArachnyaRIGRClaw2
+  - first:
+      4: 400098
+    second: ArachnyaRIGRClawCollarbone
+  - first:
+      4: 400100
+    second: ArachnyaRIGRClawPalm
+  - first:
+      4: 400102
+    second: ArachnyaRIGRIndex
+  - first:
+      4: 400104
+    second: ArachnyaRIGRLeg1
+  - first:
+      4: 400106
+    second: ArachnyaRIGRLeg2
+  - first:
+      4: 400108
+    second: ArachnyaRIGRLegAnkle
+  - first:
+      4: 400110
+    second: ArachnyaRIGRLegBack1
+  - first:
+      4: 400112
+    second: ArachnyaRIGRLegBack2
+  - first:
+      4: 400114
+    second: ArachnyaRIGRLegBackAnkle
+  - first:
+      4: 400116
+    second: ArachnyaRIGRLegBackCollarbone
+  - first:
+      4: 400118
+    second: ArachnyaRIGRLegCollarbone
+  - first:
+      4: 400120
+    second: ArachnyaRIGRLegFront1
+  - first:
+      4: 400122
+    second: ArachnyaRIGRLegFront2
+  - first:
+      4: 400124
+    second: ArachnyaRIGRLegFrontAnkle
+  - first:
+      4: 400126
+    second: ArachnyaRIGRLegFrontCollarbone
+  - first:
+      4: 400128
+    second: ArachnyaRIGRMiddlefinger
+  - first:
+      4: 400130
+    second: ArachnyaRIGRPinky
+  - first:
+      4: 400132
+    second: ArachnyaRIGRRingFinger
+  - first:
+      4: 400134
+    second: ArachnyaRIGRSpike1
+  - first:
+      4: 400136
+    second: ArachnyaRIGRSpike2
+  - first:
+      4: 400138
+    second: ArachnyaRIGRSpikeCollarbone
+  - first:
+      4: 400140
+    second: ArachnyaRIGRSpikePalm
+  - first:
+      4: 400142
+    second: ArachnyaRIGRThumb
+  - first:
+      4: 400144
+    second: ArachnyaRIGSpiderBag0
+  - first:
+      4: 400146
+    second: ArachnyaRIGSpiderBag1
+  - first:
+      4: 400148
+    second: ArachnyaRIGSpine1
+  - first:
+      4: 400150
+    second: ArachnyaRIGSpine2
+  - first:
+      4: 400152
+    second: ArachnyaRIGSpine3
+  - first:
+      4: 400154
+    second: MESH_Arachnya
+  - first:
+      4: 400156
+    second: MESH_ArachnyaScythe
+  - first:
+      4: 400158
+    second: Object003
+  - first:
+      23: 2300000
+    second: MESH_ArachnyaScythe
+  - first:
+      33: 3300000
+    second: MESH_ArachnyaScythe
+  - first:
+      43: 4300000
+    second: MESH_Arachnya
+  - first:
+      43: 4300002
+    second: MESH_ArachnyaScythe
+  - first:
+      74: 7400000
+    second: walk
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: MESH_Arachnya
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArachnyaRIGPelvis
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLClawCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLClawCollarbone/ArachnyaRIGLClaw1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLClawCollarbone/ArachnyaRIGLClaw1/ArachnyaRIGLClaw2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLClawCollarbone/ArachnyaRIGLClaw1/ArachnyaRIGLClaw2/ArachnyaRIGLClawPalm
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLLegBackCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLLegBackCollarbone/ArachnyaRIGLLegBack1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLLegBackCollarbone/ArachnyaRIGLLegBack1/ArachnyaRIGLLegBack2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLLegBackCollarbone/ArachnyaRIGLLegBack1/ArachnyaRIGLLegBack2/ArachnyaRIGLLegBackAnkle
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLLegFrontCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLLegFrontCollarbone/ArachnyaRIGLLegFront1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLLegFrontCollarbone/ArachnyaRIGLLegFront1/ArachnyaRIGLLegFront2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLLegFrontCollarbone/ArachnyaRIGLLegFront1/ArachnyaRIGLLegFront2/ArachnyaRIGLLegFrontAnkle
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLSpikeCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLSpikeCollarbone/ArachnyaRIGLSpike1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLSpikeCollarbone/ArachnyaRIGLSpike1/ArachnyaRIGLSpike2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGLSpikeCollarbone/ArachnyaRIGLSpike1/ArachnyaRIGLSpike2/ArachnyaRIGLSpikePalm
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRClawCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRClawCollarbone/ArachnyaRIGRClaw1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRClawCollarbone/ArachnyaRIGRClaw1/ArachnyaRIGRClaw2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRClawCollarbone/ArachnyaRIGRClaw1/ArachnyaRIGRClaw2/ArachnyaRIGRClawPalm
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegBackCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegBackCollarbone/ArachnyaRIGRLegBack1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegBackCollarbone/ArachnyaRIGRLegBack1/ArachnyaRIGRLegBack2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegBackCollarbone/ArachnyaRIGRLegBack1/ArachnyaRIGRLegBack2/ArachnyaRIGRLegBackAnkle
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegCollarbone/ArachnyaRIGRLeg1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegCollarbone/ArachnyaRIGRLeg1/ArachnyaRIGRLeg2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegCollarbone/ArachnyaRIGRLeg1/ArachnyaRIGRLeg2/ArachnyaRIGRLegAnkle
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegFrontCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegFrontCollarbone/ArachnyaRIGRLegFront1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegFrontCollarbone/ArachnyaRIGRLegFront1/ArachnyaRIGRLegFront2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRLegFrontCollarbone/ArachnyaRIGRLegFront1/ArachnyaRIGRLegFront2/ArachnyaRIGRLegFrontAnkle
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRSpikeCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRSpikeCollarbone/ArachnyaRIGRSpike1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRSpikeCollarbone/ArachnyaRIGRSpike1/ArachnyaRIGRSpike2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGRSpikeCollarbone/ArachnyaRIGRSpike1/ArachnyaRIGRSpike2/ArachnyaRIGRSpikePalm
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpiderBag0
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpiderBag0/ArachnyaRIGSpiderBag1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm/ArachnyaRIGLIndex
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm/ArachnyaRIGLIndex/ArachnyaRIGPalmBone001Bone004
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm/ArachnyaRIGLMiddlefinger
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm/ArachnyaRIGLMiddlefinger/ArachnyaRIGPalmBone001Bone003
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm/ArachnyaRIGLPinky
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm/ArachnyaRIGLPinky/ArachnyaRIGPalmBone001Bone001
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm/ArachnyaRIGLRingFinger
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm/ArachnyaRIGLRingFinger/ArachnyaRIGPalmBone001Bone002
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm/ArachnyaRIGLThumb
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGLArmCollarbone/ArachnyaRIGLArm1/ArachnyaRIGLArm2/ArachnyaRIGLArmPalm/ArachnyaRIGLThumb/ArachnyaRIGPalmBone005Bone001
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGNeck
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGNeck/ArachnyaRIGHead
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/ArachnyaRIGRIndex
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/ArachnyaRIGRIndex/ArachnyaRIGPalmBone001Bone004
+          1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/ArachnyaRIGRMiddlefinger
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/ArachnyaRIGRMiddlefinger/ArachnyaRIGPalmBone001Bone003
+          1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/ArachnyaRIGRPinky
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/ArachnyaRIGRPinky/ArachnyaRIGPalmBone001Bone001
+          1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/ArachnyaRIGRRingFinger
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/ArachnyaRIGRRingFinger/ArachnyaRIGPalmBone001Bone002
+          1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/ArachnyaRIGRThumb
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/ArachnyaRIGRThumb/ArachnyaRIGPalmBone005Bone001
+          1
+        weight: 1
+      - path: ArachnyaRIGPelvis/ArachnyaRIGSpine1/ArachnyaRIGSpine2/ArachnyaRIGSpine3/ArachnyaRIGChest/ArachnyaRIGRArmCollarbone/ArachnyaRIGRArm1/ArachnyaRIGRArm2/ArachnyaRIGRArmPalm/MESH_ArachnyaScythe
+        weight: 1
+      - path: ArachnyaRIGPelvis/Object003
+        weight: 1
+      - path: ArachnyaRIGPelvis/Object003/ArachnyaRIGLLeg1
+        weight: 1
+      - path: ArachnyaRIGPelvis/Object003/ArachnyaRIGLLeg1/ArachnyaRIGLLeg2
+        weight: 1
+      - path: ArachnyaRIGPelvis/Object003/ArachnyaRIGLLeg1/ArachnyaRIGLLeg2/ArachnyaRIGLLegAnkle
+        weight: 1
+      - path: MESH_Arachnya
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 68bd1b6c85b6a7343915133632426e94
+  - 6be2ef1069a40014790edf647927628b
+  - bb70951d7f4f3c54c8e26fe4aaafecf5
+  - d5d4043761473c645a1f857e086a1822
+  - 3df066bab1328e04fa5e4a40595121bb
+  - e233d23d0f4ace2429c560dc4bf0cf69
+  - 828bf6b356f79da48b76023490bb9a0b
+  - 09a460a6bc397f549a4a7bc4231b0f04
+  - 50848f3c50a41fb4c921477fdf937109
+  - f4195421e61f9bc4982f9d46d1b98ea0
+  - 33a378492e32edd44a1b70796fb491b2
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.03
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

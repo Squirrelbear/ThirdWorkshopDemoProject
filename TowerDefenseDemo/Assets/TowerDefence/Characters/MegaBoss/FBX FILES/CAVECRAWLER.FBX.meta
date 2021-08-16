@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 1c6350daa3eed1345b69da1c3f0800be
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: CAVECRAWLER
+  - first:
+      1: 100004
+    second: CAVECRAWLER_ABDOMEN
+  - first:
+      1: 100006
+    second: CAVECRAWLER_ARM_LEFT
+  - first:
+      1: 100008
+    second: CAVECRAWLER_ARM_RIGHT
+  - first:
+      1: 100010
+    second: CAVECRAWLER_CHEST
+  - first:
+      1: 100012
+    second: CAVECRAWLER_CLAW_LEFT
+  - first:
+      1: 100014
+    second: CAVECRAWLER_CLAW_RIGHT
+  - first:
+      1: 100016
+    second: CAVECRAWLER_FOREARM_LEFT
+  - first:
+      1: 100018
+    second: CAVECRAWLER_FOREARM_RIGHT
+  - first:
+      1: 100020
+    second: CAVECRAWLER_HEAD
+  - first:
+      1: 100022
+    second: CAVECRAWLER_JAW_LEFT
+  - first:
+      1: 100024
+    second: CAVECRAWLER_JAW_RIGHT
+  - first:
+      1: 100026
+    second: CAVECRAWLER_LEG_FRONT_LEFT_1
+  - first:
+      1: 100028
+    second: CAVECRAWLER_LEG_FRONT_LEFT_2
+  - first:
+      1: 100030
+    second: CAVECRAWLER_LEG_FRONT_LEFT_3
+  - first:
+      1: 100032
+    second: CAVECRAWLER_LEG_FRONT_RIGHT_1
+  - first:
+      1: 100034
+    second: CAVECRAWLER_LEG_FRONT_RIGHT_2
+  - first:
+      1: 100036
+    second: CAVECRAWLER_LEG_FRONT_RIGHT_3
+  - first:
+      1: 100038
+    second: CAVECRAWLER_LEG_MIDDLE_LEFT_1
+  - first:
+      1: 100040
+    second: CAVECRAWLER_LEG_MIDDLE_LEFT_2
+  - first:
+      1: 100042
+    second: CAVECRAWLER_LEG_MIDDLE_LEFT_3
+  - first:
+      1: 100044
+    second: CAVECRAWLER_LEG_MIDDLE_RIGHT_1
+  - first:
+      1: 100046
+    second: CAVECRAWLER_LEG_MIDDLE_RIGHT_2
+  - first:
+      1: 100048
+    second: CAVECRAWLER_LEG_MIDDLE_RIGHT_3
+  - first:
+      1: 100050
+    second: CAVECRAWLER_LEG_REAR_LEFT_1
+  - first:
+      1: 100052
+    second: CAVECRAWLER_LEG_REAR_LEFT_2
+  - first:
+      1: 100054
+    second: CAVECRAWLER_LEG_REAR_LEFT_3
+  - first:
+      1: 100056
+    second: CAVECRAWLER_LEG_REAR_RIGHT_1
+  - first:
+      1: 100058
+    second: CAVECRAWLER_LEG_REAR_RIGHT_2
+  - first:
+      1: 100060
+    second: CAVECRAWLER_LEG_REAR_RIGHT_3
+  - first:
+      1: 100062
+    second: CAVECRAWLER_MANDIBULE_LEFT_1
+  - first:
+      1: 100064
+    second: CAVECRAWLER_MANDIBULE_LEFT_2
+  - first:
+      1: 100066
+    second: CAVECRAWLER_MANDIBULE_RIGHT_1
+  - first:
+      1: 100068
+    second: CAVECRAWLER_MANDIBULE_RIGHT_2
+  - first:
+      1: 100070
+    second: CAVECRAWLER_MUSTACHE_LEFT_1
+  - first:
+      1: 100072
+    second: CAVECRAWLER_MUSTACHE_LEFT_2
+  - first:
+      1: 100074
+    second: CAVECRAWLER_MUSTACHE_LEFT_3
+  - first:
+      1: 100076
+    second: CAVECRAWLER_MUSTACHE_RIGHT_1
+  - first:
+      1: 100078
+    second: CAVECRAWLER_MUSTACHE_RIGHT_2
+  - first:
+      1: 100080
+    second: CAVECRAWLER_MUSTACHE_RIGHT_3
+  - first:
+      1: 100082
+    second: CAVECRAWLER_ROOT_
+  - first:
+      1: 100084
+    second: CAVECRAWLER_THORAX
+  - first:
+      1: 100086
+    second: CAVECRAWLER_
+  - first:
+      1: 100088
+    second: CAVECRAWLER_JAW_LEFT_nub
+  - first:
+      1: 100090
+    second: CAVECRAWLER_JAW_RIGHT_nub
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: CAVECRAWLER
+  - first:
+      4: 400004
+    second: CAVECRAWLER_ABDOMEN
+  - first:
+      4: 400006
+    second: CAVECRAWLER_ARM_LEFT
+  - first:
+      4: 400008
+    second: CAVECRAWLER_ARM_RIGHT
+  - first:
+      4: 400010
+    second: CAVECRAWLER_CHEST
+  - first:
+      4: 400012
+    second: CAVECRAWLER_CLAW_LEFT
+  - first:
+      4: 400014
+    second: CAVECRAWLER_CLAW_RIGHT
+  - first:
+      4: 400016
+    second: CAVECRAWLER_FOREARM_LEFT
+  - first:
+      4: 400018
+    second: CAVECRAWLER_FOREARM_RIGHT
+  - first:
+      4: 400020
+    second: CAVECRAWLER_HEAD
+  - first:
+      4: 400022
+    second: CAVECRAWLER_JAW_LEFT
+  - first:
+      4: 400024
+    second: CAVECRAWLER_JAW_RIGHT
+  - first:
+      4: 400026
+    second: CAVECRAWLER_LEG_FRONT_LEFT_1
+  - first:
+      4: 400028
+    second: CAVECRAWLER_LEG_FRONT_LEFT_2
+  - first:
+      4: 400030
+    second: CAVECRAWLER_LEG_FRONT_LEFT_3
+  - first:
+      4: 400032
+    second: CAVECRAWLER_LEG_FRONT_RIGHT_1
+  - first:
+      4: 400034
+    second: CAVECRAWLER_LEG_FRONT_RIGHT_2
+  - first:
+      4: 400036
+    second: CAVECRAWLER_LEG_FRONT_RIGHT_3
+  - first:
+      4: 400038
+    second: CAVECRAWLER_LEG_MIDDLE_LEFT_1
+  - first:
+      4: 400040
+    second: CAVECRAWLER_LEG_MIDDLE_LEFT_2
+  - first:
+      4: 400042
+    second: CAVECRAWLER_LEG_MIDDLE_LEFT_3
+  - first:
+      4: 400044
+    second: CAVECRAWLER_LEG_MIDDLE_RIGHT_1
+  - first:
+      4: 400046
+    second: CAVECRAWLER_LEG_MIDDLE_RIGHT_2
+  - first:
+      4: 400048
+    second: CAVECRAWLER_LEG_MIDDLE_RIGHT_3
+  - first:
+      4: 400050
+    second: CAVECRAWLER_LEG_REAR_LEFT_1
+  - first:
+      4: 400052
+    second: CAVECRAWLER_LEG_REAR_LEFT_2
+  - first:
+      4: 400054
+    second: CAVECRAWLER_LEG_REAR_LEFT_3
+  - first:
+      4: 400056
+    second: CAVECRAWLER_LEG_REAR_RIGHT_1
+  - first:
+      4: 400058
+    second: CAVECRAWLER_LEG_REAR_RIGHT_2
+  - first:
+      4: 400060
+    second: CAVECRAWLER_LEG_REAR_RIGHT_3
+  - first:
+      4: 400062
+    second: CAVECRAWLER_MANDIBULE_LEFT_1
+  - first:
+      4: 400064
+    second: CAVECRAWLER_MANDIBULE_LEFT_2
+  - first:
+      4: 400066
+    second: CAVECRAWLER_MANDIBULE_RIGHT_1
+  - first:
+      4: 400068
+    second: CAVECRAWLER_MANDIBULE_RIGHT_2
+  - first:
+      4: 400070
+    second: CAVECRAWLER_MUSTACHE_LEFT_1
+  - first:
+      4: 400072
+    second: CAVECRAWLER_MUSTACHE_LEFT_2
+  - first:
+      4: 400074
+    second: CAVECRAWLER_MUSTACHE_LEFT_3
+  - first:
+      4: 400076
+    second: CAVECRAWLER_MUSTACHE_RIGHT_1
+  - first:
+      4: 400078
+    second: CAVECRAWLER_MUSTACHE_RIGHT_2
+  - first:
+      4: 400080
+    second: CAVECRAWLER_MUSTACHE_RIGHT_3
+  - first:
+      4: 400082
+    second: CAVECRAWLER_ROOT_
+  - first:
+      4: 400084
+    second: CAVECRAWLER_THORAX
+  - first:
+      4: 400086
+    second: CAVECRAWLER_
+  - first:
+      4: 400088
+    second: CAVECRAWLER_JAW_LEFT_nub
+  - first:
+      4: 400090
+    second: CAVECRAWLER_JAW_RIGHT_nub
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: CAVECRAWLER
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: CAVECRAWLER
+  - first:
+      43: 4300000
+    second: CAVECRAWLER
+  - first:
+      74: 7400000
+    second: idle
+  - first:
+      74: 7400002
+    second: crawlForward
+  - first:
+      74: 7400004
+    second: crawlBackwards
+  - first:
+      74: 7400006
+    second: crawlLeft
+  - first:
+      74: 7400008
+    second: crawlRight
+  - first:
+      74: 7400010
+    second: crawlForwardAttack
+  - first:
+      74: 7400012
+    second: crawlLeftAttack
+  - first:
+      74: 7400014
+    second: crawlRightAttack
+  - first:
+      74: 7400016
+    second: crawlForward_RM
+  - first:
+      74: 7400018
+    second: crawlBackwards_RM
+  - first:
+      74: 7400020
+    second: crawlLeft_RM
+  - first:
+      74: 7400022
+    second: crawlRight_RM
+  - first:
+      74: 7400024
+    second: crawlForwardAttack_RM
+  - first:
+      74: 7400026
+    second: crawlLeftAttack_RM
+  - first:
+      74: 7400028
+    second: crawlRightAttack_RM
+  - first:
+      74: 7400030
+    second: clawAttackRight
+  - first:
+      74: 7400032
+    second: clawsAttackLeft
+  - first:
+      74: 7400034
+    second: claws2HitCombo
+  - first:
+      74: 7400036
+    second: stingerAttack
+  - first:
+      74: 7400038
+    second: 3HitCombo
+  - first:
+      74: 7400040
+    second: roarExhaleGas
+  - first:
+      74: 7400042
+    second: getHit1
+  - first:
+      74: 7400044
+    second: getHit2
+  - first:
+      74: 7400046
+    second: take001
+  - first:
+      74: 7400048
+    second: Take 0012
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: CAVECRAWLER
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: take001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 988
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CAVECRAWLER
+        weight: 1
+      - path: CAVECRAWLER_
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_ABDOMEN
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_ARM_LEFT
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_ARM_LEFT/CAVECRAWLER_FOREARM_LEFT
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_ARM_LEFT/CAVECRAWLER_FOREARM_LEFT/CAVECRAWLER_CLAW_LEFT
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_ARM_RIGHT
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_ARM_RIGHT/CAVECRAWLER_FOREARM_RIGHT
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_ARM_RIGHT/CAVECRAWLER_FOREARM_RIGHT/CAVECRAWLER_CLAW_RIGHT
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_JAW_LEFT
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_JAW_LEFT/CAVECRAWLER_JAW_LEFT_nub
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_JAW_RIGHT
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_JAW_RIGHT/CAVECRAWLER_JAW_RIGHT_nub
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_MANDIBULE_LEFT_1
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_MANDIBULE_LEFT_1/CAVECRAWLER_MANDIBULE_LEFT_2
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_MANDIBULE_RIGHT_1
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_MANDIBULE_RIGHT_1/CAVECRAWLER_MANDIBULE_RIGHT_2
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_MUSTACHE_LEFT_1
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_MUSTACHE_LEFT_1/CAVECRAWLER_MUSTACHE_LEFT_2
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_MUSTACHE_LEFT_1/CAVECRAWLER_MUSTACHE_LEFT_2/CAVECRAWLER_MUSTACHE_LEFT_3
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_MUSTACHE_RIGHT_1
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_MUSTACHE_RIGHT_1/CAVECRAWLER_MUSTACHE_RIGHT_2
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_CHEST/CAVECRAWLER_HEAD/CAVECRAWLER_MUSTACHE_RIGHT_1/CAVECRAWLER_MUSTACHE_RIGHT_2/CAVECRAWLER_MUSTACHE_RIGHT_3
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_FRONT_LEFT_1
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_FRONT_LEFT_1/CAVECRAWLER_LEG_FRONT_LEFT_2
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_FRONT_LEFT_1/CAVECRAWLER_LEG_FRONT_LEFT_2/CAVECRAWLER_LEG_FRONT_LEFT_3
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_FRONT_RIGHT_1
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_FRONT_RIGHT_1/CAVECRAWLER_LEG_FRONT_RIGHT_2
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_FRONT_RIGHT_1/CAVECRAWLER_LEG_FRONT_RIGHT_2/CAVECRAWLER_LEG_FRONT_RIGHT_3
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_MIDDLE_LEFT_1
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_MIDDLE_LEFT_1/CAVECRAWLER_LEG_MIDDLE_LEFT_2
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_MIDDLE_LEFT_1/CAVECRAWLER_LEG_MIDDLE_LEFT_2/CAVECRAWLER_LEG_MIDDLE_LEFT_3
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_MIDDLE_RIGHT_1
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_MIDDLE_RIGHT_1/CAVECRAWLER_LEG_MIDDLE_RIGHT_2
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_MIDDLE_RIGHT_1/CAVECRAWLER_LEG_MIDDLE_RIGHT_2/CAVECRAWLER_LEG_MIDDLE_RIGHT_3
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_REAR_LEFT_1
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_REAR_LEFT_1/CAVECRAWLER_LEG_REAR_LEFT_2
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_REAR_LEFT_1/CAVECRAWLER_LEG_REAR_LEFT_2/CAVECRAWLER_LEG_REAR_LEFT_3
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_REAR_RIGHT_1
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_REAR_RIGHT_1/CAVECRAWLER_LEG_REAR_RIGHT_2
+        weight: 1
+      - path: CAVECRAWLER_/CAVECRAWLER_THORAX/CAVECRAWLER_LEG_REAR_RIGHT_1/CAVECRAWLER_LEG_REAR_RIGHT_2/CAVECRAWLER_LEG_REAR_RIGHT_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - c6c710d7259c8714f981f4db1f7c1483
+  - 88b7a50b61c83ac479575ba5b0cfd6c8
+  - cabbcc1a26cd71f49a83835e7a2c22da
+  - a82b54490a0bbc346a43482149d40afd
+  - 2ee15d98a8ee2b24fbe31967c92dbd75
+  - 9727e4a0def578b4abadfd557d74a6f3
+  - c6929f6b3f720f448855c339021187bb
+  - 9b47bb06a0a6efc46a6028f5a306f0ab
+  - f8df2c3566da4264d8162c6b76b35ea3
+  - 792383cd2a9578c49a9163e0d0419993
+  - 7e68c0f42922564469b1945f6876b0cb
+  - 7a827da5dec6a7e448e0a56ecb5541b4
+  - ebb6ab50987235642bbf9c98da439120
+  - 170d26daceaadbc45b480a704bf5c215
+  - 78ad77b49f2a6ba4d982d1c6fac4b07d
+  - faa6f58569c7d26449725c600e5db2b2
+  - de9d04ad89231254594fb4ea2b3321cb
+  - d80a53f3603c6094486ef924a95fe091
+  - f0970c698e2ed184c8eb7124cd07174b
+  - 86864c298ecd6fa49aa2dfc101406397
+  - 524c86749388ae74da4fb687de85ab00
+  - 222d23566926ac94f9cfdd96793b08e1
+  - 38cf53ce35746cc4b8671c69753739d4
+  - 6b1707ffa38c7334680f183d4bd15f2b
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
